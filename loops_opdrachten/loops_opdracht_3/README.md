@@ -1,4 +1,4 @@
-﻿# FE-OP3-les3_conditions_loops - opdracht 1
+﻿# FE-OP3-les3_conditions_loops - opdracht 3
 
 Schrijf een programma dat optelt van 1 t/m 50 met behulp van een for-loop.
 
